@@ -1,0 +1,116 @@
+TOGAF
+
+Suggestive is to take the exam within 30 day after the completion of learning/course.
+
+
+Introduction :
+==============
+
+TOGAF has 6 parts :
+	Part 1 : Intro ( Basivc + core concepts)
+		It contains the definitions of terms used throughout this standard.
+
+	Part 2 : Arch Development Method ( adm)
+		core of the TOGAF framework.Contains a step-by-step approach to developing an Enterprise Architecture
+
+	Part 3 : ADM Guidelines & Techniques
+		Collection of guidelines and techniques available for use in applying the TOGAF approach and the TOGAF ADM.
+
+	Part 4 : Arch. Content Framework.
+		A structured metamodel for architectural artifacts, the use of re-usable Architecture Building Blocks (ABBs), and an overview of typical architecture deliverable
+
+	Part 5 : Enterprise Continnum
+		appropriate taxonomies and tools to categorize and store the outputs of architecture activity within an enterprise
+
+	Part 6 : Arch. Capability Framework.
+
+
+Levels :
+==========
+
+Level-1 ( Foundation )
+	40 Multi-Choice Questions out of 60 min.
+	Closed Book
+	13 learning units
+	Pass percentage : 55%
+	No negitive marking.
+
+
+Level-2 ( Practitioner )
+	Scenario specific 
+	8 questions
+	90 minutes
+	Open Book test C182-PDF
+	Learning chapters/units : 26 units ( + 13 from Level-1 )
+	60% to pass the exam.
+
+
+Recommendation is to take it as combined.
+	Reason, level-2 is superset of Level-1.
+
+
+Study Material :
+===============
+C182 	:	TOGAF Standard - Bibe of TOGAF ( pdf + online version )
+X1810 	:	TOGAF confirmance requirement, 
+			which will tell us how to read the bible.
+N181 	:	ADM Reference Card
+T180 	:	TOGAF Series Guide ( Reference Material )
+I093	:	TOGAF Templates
+
+
+Bifurcation of Levels will be given in the above list.
+
+Links :
+=====
+https://www.opengroup.org/
+https://publications.opengroup.org/c182
+https://publications.opengroup.org/x1810
+https://publications.opengroup.org/catalog/product/view/id/896/s/n181/
+https://publications.opengroup.org/t180
+https://publications.opengroup.org/i093
+
+https://publications.opengroup.org/downloadable/customer/products/
+
+https://pubs.opengroup.org/architecture/togaf92-doc/arch/
+
+
+Arch Capability & domains :
+=========================
+	Arch capability meant org has the capability to delivery the archicture work.
+
+	Arch domains, which every org is built upon  are : 
+
+		(B)usiness Architecture
+		(D)ata Architecture
+		(A)pplication Architecture
+		(T)echnology Architecture
+
+
+	(B)usiness Architecture :
+		Business Strategy, Governance, Organization, Key business Processes.
+	(D)ata Architecture :
+		Structrue of the organization logical and physical data assets.
+		Data Management resources.
+	(A)pplication Architecture :
+		A blueprint of the application systems to be deployed, their interactions and their relations to the core business process of the organization.
+	(T)echnology Architecture :
+		Software and hardware capabilities that are required 
+
+
+Top Down Design Approach :
+	Business Arch
+	Data Arch
+	Applicaiton Arch
+	Technology Arch.
+
+
+Bottom Up Arch ( Implementation ) Approach :
+	Tech Arch
+	Data Arch
+	Appl Arch
+	Business Arch
+
+
+Enterprise Architecture :
+	Organizing logic between Business and IT to meet the desired objective.
