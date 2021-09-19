@@ -1,4 +1,4 @@
-TOGAF
+TOGAF - Session-1
 
 Suggestive is to take the exam within 30 day after the completion of learning/course.
 
@@ -13,7 +13,7 @@ TOGAF has 6 parts :
 	Part 2 : Arch Development Method ( adm)
 		core of the TOGAF framework.Contains a step-by-step approach to developing an Enterprise Architecture
 
-	Part 3 : ADM Guidelines & Techniques
+	Part 3 : ADM Guidelines ( rules ) & Techniques ( how to perform a task )
 		Collection of guidelines and techniques available for use in applying the TOGAF approach and the TOGAF ADM.
 
 	Part 4 : Arch. Content Framework.
@@ -73,13 +73,6 @@ https://publications.opengroup.org/i093
 https://publications.opengroup.org/downloadable/customer/products/
 
 https://pubs.opengroup.org/architecture/togaf92-doc/arch/
-
-
-Reference links from the tutor/Simplilearn :
-
-https://drive.google.com/drive/folders/1I_5x-PbJqw3QU_EQwBD_DFBLtZjnxpzz
-
-https://community.simplilearn.com/
 
 
 Arch Capability & domains :

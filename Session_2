@@ -1,0 +1,106 @@
+TOGAF - Session-2
+
+Core concepts of TOGAF :
+=====================
+
+Architecture landscape, Building blocks. 
+These are frequently used during ADM.
+
+
+Every enterprise will have an arch landscape.
+Arch landscape is/can be divided into 3 parts :
+
+	Strategic level Architecture:	 
+		Enterprise level Arch. 
+			Example : Citibank.
+	Segment level Architecture	: 
+		Portfolio level Architecture. 
+			Example: Loans, Cards, Investment.
+	Capability level Architecture: 
+		Project level Architecture. 
+			Example : Personal Loans/Business Loans/Home Loans)
+
+Architecture partitioning :
+	Breadth, Time, Maturity	 	
+
+Architecture landscape/partitioning happens at the preliminary phase.
+
+
+
+Building blocks :
+================
+Characters :
+	re-usable components.
+	They can be easily replaced/reused
+	They are Interdependent and dependent.
+
+Two type sof building blocks
+	Architecture building blocks and Solution building blocks.
+
+C182 : Chapter 33 ( Building blocks ). 
+
+
+Part Two : Architecture Development Method.
+==========================================
+
+	Iterative in nature
+	LifeCycle :
+		Can customize ADM as per Org needs
+		Does not need to go through entire life cycle.
+		Can use few or all phases of ADM.
+	Step by step approach to develop EA.
+
+	Every phase will have 
+		Objectives, Steps, Inputs and outputs.
+
+ADM Phases : A, B, C(I), D(T), E(O), F(M), G(G), H(I)
+
+Arch capability is the arch function/practice.
+
+Preliminary phase helps in preparation and initiation activities to setup the Architecture capability.
+
+
+Phase A initiates upon receiving of Request-For-Arch-Work.
+
+
+Part 3:  ADM Guidelines and Techniques :
+======================================
+
+Guidelines :
+---------- 
+	How to iterate the ADM
+	How to apply ADM to Architecture landscape
+	Security considerations.
+
+The above are supporting the application of ADM.
+
+
+Techniques :
+----------
+	Stakeholder mgmt
+	Risk mgmt
+	Readiness Assessment
+	Identifying Requirements
+
+
+
+Part 4: Architecture content framework :
+======================================
+Provides a comprehensive cheklist of all outputs in ADM phases.
+
+Content -> Output = workproduct.
+
+Three categorizes viz., Deliverables, Artifacts and Building blocks.
+
+	Deliverables :
+		Statement of Architecture work ( SOAW )
+		Architecture Definition Documents ( ADD )
+		Obligated Documents.
+
+	Artifacts :	Describe an aspect of an architecture
+		Catalogues : List of things.
+		Matrices : Relationship of things.
+		Diagrams : Picture of things
+
+	Building Blocks :
+		Potentially reusable components ( ABB & SBB )
